@@ -5,3 +5,5 @@
   
   `A lightweight full-modular Discord bot with a lot of different functions`
 </div>
+
+---
