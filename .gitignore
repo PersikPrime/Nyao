@@ -1,0 +1,20 @@
+# Hide .env 
+.env
+
+# Hid .venv
+.venv/
+env/
+venv/
+ENV/
+
+# macos trash can ble
+.DS_Store
+
+# pycache bleble
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# myvscode settings
+.vscode/
